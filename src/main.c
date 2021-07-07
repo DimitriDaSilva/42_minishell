@@ -6,7 +6,7 @@
 /*   By: dda-silv <dda-silv@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/07 21:35:14 by dda-silv          #+#    #+#             */
-/*   Updated: 2021/05/18 16:47:33 by dda-silv         ###   ########.fr       */
+/*   Updated: 2021/07/08 00:56:29 by dda-silv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,6 +38,8 @@
 ** @17		We have to set canonical back on in case the program executed
 **			by the user require an input
 */
+
+t_msh	g_msh;
 
 int	main(int argc, char **argv, char **envp)
 {

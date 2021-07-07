@@ -6,7 +6,7 @@
 /*   By: dda-silv <dda-silv@student.42lisboa.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 16:48:16 by dda-silv          #+#    #+#             */
-/*   Updated: 2021/05/25 11:32:34 by dda-silv         ###   ########.fr       */
+/*   Updated: 2021/07/08 00:56:53 by dda-silv         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,6 +64,6 @@
 # include "write_prompt.h"
 # include "utils.h"
 
-t_msh	g_msh;
+extern t_msh	g_msh;
 
 #endif
