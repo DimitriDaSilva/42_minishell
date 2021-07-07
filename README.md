@@ -11,9 +11,10 @@ Fun fact: We can call other executables inside our minishell, including minishel
 So we can type `./minishell` to enter our minishell then `./minishell` again. We will then have to exit twice to finish all our programs.
 
 ### **DREAM TEAM**
-This project was done in pairs, which was an amazing opportunity to learn how to better use github (I'll also add a few commands to showcase our workflow in this document):
-I really want to thank Dimitri for everything he taught me about commenting code, for his amazing VSCode Snippets, his patience and dedication!
-I couldn't have asked for a better team mate!
+This project was done in pairs. It taught us how to write cleaner code so that it can be easily used by our coding partner. We also learned the ancient art of the gitflow to smoothly sail through the new features and the nagging bugs.
+
+I'd like to thank Gonçalo for the hard work he put in and for his commitment to write clean and sexy code. Keep sharing your knowledge like you brillantly did with this sweet README.
+It was great working with you buddy! May we code together again at 42 or for a cool project!
 
 #### Our work was generally split in the following way:
 <br>
