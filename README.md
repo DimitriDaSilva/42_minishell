@@ -1,7 +1,7 @@
 # Minishell
 <br>
 
-![screenshot minishell](media/minishell_pic.png)
+![image](https://user-images.githubusercontent.com/66511903/124838282-6ba85780-df7e-11eb-9f8a-42596efb1173.png)
 
 In this project we are asked to mimic the behaviour of a bash shell.
 We don't need to create a new window/ tabs our vertical splits like our iTerm (this is what I imagined the assignment would be).
